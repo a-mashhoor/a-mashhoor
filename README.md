@@ -47,7 +47,7 @@ When I’m not submitting CVEs, I’m probably automating my life with scripts o
 **`[>] Visitor Count:`** *Skids, bots, and maybe you.*
 [![](https://visitcount.itsvg.in/api?id=a-mashhoor&icon=5&color=1)](https://visitcount.itsvg.in)
 
-**`[>] Last Command:`** `exit 0`
+**`[>] Last Command:`** `echo c | sudo tee /proc/sysrq-trigger`
 
 ---
 
@@ -61,7 +61,7 @@ When I’m not submitting CVEs, I’m probably automating my life with scripts o
 ---
 
 ✅ **`[>] System Status: Operational`**
-❌ **`[>] Firewalld: panic`**
+❌ **`[>] Firewalld: firewall-cmd --permanent --panic-on `**
 ⚠️ **`[>] Warning: This user may contain traces of caffeine, n|(O7|N3 and exploit code.`**
 
 ---
