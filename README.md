@@ -5,7 +5,7 @@
 
 I break things so they can’t be broken.
 Specializing in **web app sec**, but I’ll pwn anything that’s got an HTTP response.
-When I’m not submitting CVEs, I’m probably automating my life with scripts or contributing to OSS (because *someone’s* gotta keep the internet from collapsing).
+When I’m not drinking coffee, I’m probably automating my life with scripts or contributing to OSS (because *someone’s* gotta keep the internet from collapsing).
 
 **`[>] Mission:`** *Patch the web before the skids wreck it.*
 
